@@ -60,7 +60,7 @@ M.defaults = {
       "error",
       "assert",
       "pcall",
-      "packages",
+      "package",
       "xpcall",
       "select",
       "unpack",
