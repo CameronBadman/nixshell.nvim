@@ -1,0 +1,1 @@
+# nixshell.nvim-
